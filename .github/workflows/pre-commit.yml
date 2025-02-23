@@ -5,7 +5,7 @@ on:
 
 jobs:
   pre-commit-check:
-    name: main
+    name: Run Pre-commit Hooks
     runs-on: ubuntu-latest
 
     steps:
